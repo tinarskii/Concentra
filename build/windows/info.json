@@ -1,0 +1,15 @@
+{
+	"fixed": {
+		"file_version": "0.6.9"
+	},
+	"info": {
+		"0000": {
+			"ProductVersion": "0.6.9",
+			"CompanyName": "Website of Tinarskii",
+			"FileDescription": "Concentra",
+			"LegalCopyright": "Copyright (c) 2023 Tinnaphat Somsang",
+			"ProductName": "Concentra",
+			"Comments": "Built using Walls (https://en.wikipedia.org/wiki/Wall)"
+		}
+	}
+}
